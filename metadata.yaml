@@ -1,0 +1,31 @@
+_repo: Manhattan-Transfer_71853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dos Passos, John
+    alias: Passos, John Dos
+    birthdate: 1896
+    deathdate: 1970
+    gutenberg_agent_id: '2015'
+    url: http://www.gutenberg.org/2009/agents/2015
+    wikipedia: https://en.wikipedia.org/wiki/John_Dos_Passos
+description: ''
+gutenberg_issued: '2023-10-11'
+identifiers:
+  gutenberg: '71853'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.32106012931710&view=1up&seq=8
+pgterms:marc905: 20210102110004dospassos
+pgterms:marc906: '1925'
+pgterms:marc907: us
+production_note: Carol Brown, Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bHarper & Brothers, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Manhattan Transfer
+url: http://www.gutenberg.org/ebooks/71853
